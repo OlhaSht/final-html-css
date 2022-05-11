@@ -1,0 +1,20 @@
+/* font-family: 'Mulish', sans-serif; */
+:root{
+  --grin-color: #6ACA6B;
+  --light-color: #A3A3A3;
+  --text-color: #414141;
+  --footer-color: #243246;
+  --liter-color: #FFFFFF;
+}
+
+@font-face{
+  font-family: "trajan";
+  src: url("fonts/trajan\ pro\ 3/ofont.ru_Trajan.ttf");
+  font-weight: 400px;
+  font-style: normal;
+}
+
+
+/* h1{
+  font-family: "trajan";
+ }  */
